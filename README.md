@@ -14,3 +14,6 @@ This was edited locally on Notepad++ (develop branch) (6:22 PM)
 
 
 Hey this is a new edit, done on Notepad++ on the develop branch. (10:32 PM)
+
+## Getting started
+To get started with this project, just `clone` this repository. 👍
